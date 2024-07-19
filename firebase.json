@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "roc-ethical-c7f1b",
+          "appId": "1:301725012304:android:5bc26018c1746139291c55",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "roc-ethical-c7f1b",
+          "configurations": {
+            "android": "1:301725012304:android:5bc26018c1746139291c55",
+            "ios": "1:301725012304:ios:7dc9be925d4ed28d291c55",
+            "web": "1:301725012304:web:abd5f20d94d4c179291c55"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

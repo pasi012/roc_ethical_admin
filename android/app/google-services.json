@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "301725012304",
+    "project_id": "roc-ethical-c7f1b",
+    "storage_bucket": "roc-ethical-c7f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301725012304:android:a880587c75ce5187291c55",
+        "android_client_info": {
+          "package_name": "com.fashion.roc_ethical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301725012304-j3gbrd94ggk9c7alhqeq2i2h0gfh50ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fashion.roc_ethical",
+            "certificate_hash": "e4d233624392da6da6af386697da4623a53eaa15"
+          }
+        },
+        {
+          "client_id": "301725012304-n10rrfrploee49mi494k6419a0vo3980.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtrp62mBP6z1c3BQ6UZ9clS4maBAsQ3Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301725012304-n10rrfrploee49mi494k6419a0vo3980.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "301725012304-k31pdn44d2a66hcgomh21705hr0r2k7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fashion.rocEthical"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301725012304:android:5bc26018c1746139291c55",
+        "android_client_info": {
+          "package_name": "com.fashion.roc_ethical_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301725012304-n10rrfrploee49mi494k6419a0vo3980.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtrp62mBP6z1c3BQ6UZ9clS4maBAsQ3Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301725012304-n10rrfrploee49mi494k6419a0vo3980.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "301725012304-k31pdn44d2a66hcgomh21705hr0r2k7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fashion.rocEthical"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
